@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Choosing a home screen wallpaper</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sea">sea</string>
+    <string name="sun">sun</string>
+    <string name="nature">nature</string>
+    <string name="animals">animals</string>
+    <string name="balloon">balloon</string>
+    <string name="cats">cats</string>
+    <string name="restart">Restart</string>
+    <string name="set_as_wallpaper">set as wallpaper</string>
 </resources>
