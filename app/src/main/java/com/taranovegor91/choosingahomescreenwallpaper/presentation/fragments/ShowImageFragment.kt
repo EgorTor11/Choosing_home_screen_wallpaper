@@ -31,7 +31,7 @@ class ShowImageFragment : Fragment(R.layout.fragment_show_image) {
             try {
                 manager.setBitmap(binding.imShowImage.drawToBitmap())
             } catch (e: IOException) {
-                Toast.makeText(requireContext(), "не вышло не фортануло", Toast.LENGTH_LONG).show()
+                Toast.makeText(requireContext(), getString(R.string.failed_to_install_wallpaper), Toast.LENGTH_LONG).show()
             }
         }
     }
